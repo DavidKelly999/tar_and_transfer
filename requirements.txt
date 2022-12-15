@@ -1,0 +1,3 @@
+funcx
+globus-automate-client
+

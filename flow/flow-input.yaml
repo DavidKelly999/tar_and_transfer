@@ -1,0 +1,12 @@
+tar:
+  funcx_function: "c55330d8-e788-4416-8697-995d2237add9"
+  funcx_endpoint: ""
+  inputs: ""
+  output: ""
+
+transfer:
+  source_collection: ""
+  source_path: ""
+  destination_collection: ""
+  destination_path: ""
+  label: "tar and transfer"
